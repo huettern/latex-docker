@@ -1,4 +1,7 @@
-# latex-docker
+# latex-docker 
+
+
+[![Docker Pulls](https://img.shields.io/docker/pulls/noah95/latex.svg)](https://hub.docker.com/r/noah95/latex)
 
 ## Build
 ```bash
